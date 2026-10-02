@@ -1,0 +1,9 @@
+.venv/
+main.py
+.idea/
+
+data/ID003.fits
+data/ID003_clean.csv
+data/ID003_clouds_filtered.csv
+data/ID003_final.csv
+data/ID003_segmented.csv
