@@ -1,9 +1,12 @@
 .venv/
-main.py
 .idea/
+main.py
 
+# Données brutes et fichiers intermédiaires
 data/ID003.fits
 data/ID003_clean.csv
 data/ID003_clouds_filtered.csv
 data/ID003_final.csv
 data/ID003_segmented.csv
+data/ID003_features_nuit.csv
+data/laser_candidates.csv
